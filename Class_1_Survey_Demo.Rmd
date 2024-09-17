@@ -28,3 +28,7 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# R is one of the best semi-programming languages that we have so far since it one of the few open softwares that is available. So please take adavantage of it anytime possible.
+
+
